@@ -1,3 +1,3 @@
-Développement d’un système de partage de fichiers.
+Development of a file sharing system.
 
-l'execution de l'application se fait en executant la classe Peer.java .
+Execution of the application is done by executing the Peer.java class.
